@@ -8,6 +8,8 @@ LINK DO STRONY UDOSTEPNIONEJ PUBLICZNIE NA PYTHONANYWHERE/PANEL ADMINA:http://je
 
 PANEL ADMINA 
 Login : tomasz
+
+
 Hasło : haslo1234
 1. Instalacja pakietów pip oraz Django
 ![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Zdjecia/1.PNG)						
