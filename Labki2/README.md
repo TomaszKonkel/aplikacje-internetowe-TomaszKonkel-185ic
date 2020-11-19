@@ -1,64 +1,40 @@
 # Aplikacje- interneetowe-www-TomaszKonkel-185IC
 # Autor: Tomasz Konkel grupa: 185IC_B1
 
-#Laboratorium numer 1
+#Laboratorium numer 2
 
 LINK DO STRONY UDOSTEPNIONEJ PUBLICZNIE NA PYTHONANYWHERE:http://jestemkonkel.pythonanywhere.com
-LINK DO STRONY UDOSTEPNIONEJ PUBLICZNIE NA PYTHONANYWHERE/PANEL ADMINA:http://jestemkonkel.pythonanywhere.com/admin
 
-PANEL ADMINA 
+DANE LOGOWANIA
 
 Login : tomasz
 
 Hasło : haslo1234
 
 
-1. Instalacja pakietów pip oraz Django
+1. Wygląd strony głównej
 
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Zdjecia/1.PNG)	
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Labki2/Zdjecia/1.1.PNG)	
 
-2. Tworzenie nowego projektu 
+2. Widok LogIN
 
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Zdjecia/2.PNG)	
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki2/Zdjecia/1.PNG)	
 
-3. Zmiany w ustawieniach projektu
+3. Przycisk LogOUT, który wraca nas do strony startowej
 
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Zdjecia/3.PNG)	
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki2/Zdjecia/2.PNG)	
 
-4. Tworzenie bazy danych dla naszego bloga za pomocą migracji 
+4. Widok SignUP, można dodawać nowych użytkowników
 
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Zdjecia/4.PNG)	
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki2/Zdjecia/3.PNG)	
 
-5. Uruchomienie serwera lokalnego
+5. Widok zmiany hasła, dostępne po zalogowaniu do danego użytkownika
 
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Zdjecia/5.PNG)	
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki2/Zdjecia/4.PNG)	
 
-6. Tworzenie aplikacji i zainicjowanie jej działania w pliku ustawień
+6. Widok resetowania hasła
 
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Zdjecia/6.PNG)	
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki2/Zdjecia/5.PNG)	
 
-7. Tworzenie nowego modelu, który sprawuje funkcje wpisu na blogu
-
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Zdjecia/7.PNG)	
-
-8. Zapisanie zmian odnośnie wprowadzenia nowego modelu i zainicjowanie ich do naszej bazy danych
-
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Zdjecia/8.PNG)	
-
-9. Dołączenie modelu Post do panelu admina Django
-
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Zdjecia/9.PNG)	
-
-10. Tworzenie superusera
-
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Zdjecia/10.PNG)	
-
-11. Widok panelu admina w widoku superusera
-
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Zdjecia/11.PNG)
-
-12. Kilka przykładowych QuerySet'ów
-
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Zdjecia/12.PNG)
 
 					
