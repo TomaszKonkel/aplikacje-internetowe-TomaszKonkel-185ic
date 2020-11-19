@@ -18,23 +18,23 @@ Hasło : haslo1234
 
 2. Widok LogIN
 
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki2/Zdjecia/1.PNG)	
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Labki2/Zdjecia/1.PNG)	
 
 3. Przycisk LogOUT, który wraca nas do strony startowej
 
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki2/Zdjecia/2.PNG)	
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Labki2/Zdjecia/2.PNG)	
 
 4. Widok SignUP, można dodawać nowych użytkowników
 
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki2/Zdjecia/3.PNG)	
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Labki2/Zdjecia/3.PNG)	
 
 5. Widok zmiany hasła, dostępne po zalogowaniu do danego użytkownika
 
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki2/Zdjecia/4.PNG)	
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Labki2/Zdjecia/4.PNG)	
 
 6. Widok resetowania hasła
 
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki2/Zdjecia/5.PNG)	
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Labki2/Zdjecia/5.PNG)	
 
 
 					
