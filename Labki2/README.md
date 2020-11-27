@@ -3,7 +3,7 @@
 
 #Laboratorium numer 2
 
-LINK DO STRONY UDOSTEPNIONEJ PUBLICZNIE NA PYTHONANYWHERE:http://jestemkonkel.pythonanywhere.com
+LINK DO STRONY UDOSTEPNIONEJ PUBLICZNIE NA PLATFORMIE PYTHONANYWHERE:http://jestemkonkel.pythonanywhere.com
 
 DANE LOGOWANIA
 
