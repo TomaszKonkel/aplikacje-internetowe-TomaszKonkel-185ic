@@ -25,6 +25,14 @@
 
 ![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Labki3/Zdjecia_lab3/5.PNG)	
 
+6. Zakładka Site w panelu Admina, gdzie dodany jest adres naszej strony
+
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Labki3/Zdjecia_lab3/6.PNG)
+
+7. Aplikacje społecznościowe skonfigurowane w panelu Admina, Nadana nazwa i podane klucze pozyskane z kont developerskich na google o facebook
+
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Labki3/Zdjecia_lab3/7.PNG)
+
 
 
 
