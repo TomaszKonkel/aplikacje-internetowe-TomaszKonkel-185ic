@@ -20,12 +20,14 @@
 					{{ form.as_p }}
 					<button type="submit">Log In</button>
 				</form>
-		<div class="social">
-			<ul>
-				<li class="facebook"><a href="{% url 'social:begin' 'facebook'%}">Zaloguj się za pomocą konta Facebook</a></li>
-				<li class="linkedin"><a href="{% url 'social:begin' 'linkedin-oauth2' %}">Zaloguj sie za pomocą konta Linkedin</a></li>			 
-			</ul>
-		</div>
+			
+			<div>
+				{% load socialaccount %}
+				<ul>
+				<li><a href="{% provider_login_url 'google' %}">Zaloguj sie z google</a></li>
+				<li><a href='{% provider_login_url "facebook" method="oauth2" %}'>Zaloguj się z facebook</a></li>
+				</ul>
+			</div>
 		{% endblock content %}
         </div>
 		
