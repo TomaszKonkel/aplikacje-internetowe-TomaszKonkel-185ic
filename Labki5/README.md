@@ -7,4 +7,4 @@
 
 1. Widok wybranych przykładów zastosowania Web Scrapingu w Pythonie
 
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Labki5/zdjecia/1.PNG)	
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Labki5/Zdjecia/1.PNG)	
