@@ -4,6 +4,7 @@
 
 #Laboratorium numer 3
 
+#Logowanie przez serwisy zewnętrzne zrealizowane za pomocą 'django-allauth' doinstalowywanego osobno.
 
 1. Odnośniki do logowania się za pomocą zewnetrznych stron 
 
