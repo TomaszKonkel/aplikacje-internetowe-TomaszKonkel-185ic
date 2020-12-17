@@ -5,7 +5,7 @@
 #Laboratorium numer 4
 
 
-1. Widok Djanfo Rest Framework
+1. Widok Djanfo Rest Framework'a
 
 ![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Labki4/zdjecia/1.PNG)	
 
