@@ -2,7 +2,7 @@
 # Autor: Tomasz Konkel grupa: 185IC_B1
 
 
-#Laboratorium numer 4
+#Laboratorium numer 6
 
 
 1. Zalogowany użytkownik na basic i session authentication
