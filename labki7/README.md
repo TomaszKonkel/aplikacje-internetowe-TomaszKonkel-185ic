@@ -12,26 +12,13 @@ Dokładnie opisane
 Działanie strony w połączeniu Django, Redis i Celery pokazane na zdjeciu 
 
 
-1. Zalogowany użytkownik na basic i session authentication
+1. Wygląd działającej strony
 
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki6/zdjecia_apki/1.PNG)	
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki7/media/images/1.PNG)	
 
-2. Wylogowany użytkownik na basic i session authentication
+Działanie strony
 
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki6/zdjecia_apki/2.PNG)
-
-3. Logowanie z TokenAuthenctication
-
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki6/zdjecia_apki/3.PNG)
-
-4. Zalogowany z TokenAuthenctication
-
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki6/zdjecia_apki/4.PNG)
-
-5. Lista tokenów w panelu administratora przypisanych do istniejących użytkowników
-
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki6/zdjecia_apki/5.PNG)
-
+Dodajemy zdjecie, które jest zipowane i wrzucane do wybranego przez nas folderu
 
 
 
