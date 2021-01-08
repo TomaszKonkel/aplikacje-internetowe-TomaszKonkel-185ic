@@ -2,24 +2,28 @@
 # Autor: Tomasz Konkel grupa: 185IC_B1
 
 
-#Laboratorium numer 4
+#Laboratorium numer 6
 
 
-1. Widok Djanfo Rest Framework
+1. Zalogowany użytkownik na basic i session authentication
 
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Labki4/zdjecia/1.PNG)	
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki6/zdjecia_apki/1.PNG)	
 
-2. Plik permissions
+2. Wylogowany użytkownik na basic i session authentication
 
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Labki4/zdjecia/2.PNG)
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki6/zdjecia_apki/2.PNG)
 
-3. Widok Swaggerów (dokumentacja aplikacji w przyjaznym widoku)
+3. Logowanie z TokenAuthenctication
 
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Labki4/zdjecia/3.PNG)
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki6/zdjecia_apki/3.PNG)
 
-4. Plik serializers
+4. Zalogowany z TokenAuthenctication
 
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/Labki4/zdjecia/4.PNG)
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki6/zdjecia_apki/4.PNG)
+
+5. Lista tokenów w panelu administratora przypisanych do istniejących użytkowników
+
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki6/zdjecia_apki/5.PNG)
 
 
 
