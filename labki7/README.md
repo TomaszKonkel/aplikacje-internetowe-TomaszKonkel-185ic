@@ -2,7 +2,14 @@
 # Autor: Tomasz Konkel grupa: 185IC_B1
 
 
-#Laboratorium numer 6
+#Laboratorium numer 7
+
+Połączenie Django, Redisa i Celery
+
+Zadania wykonane z artykułu znajdują się w pliku Redis
+Dokładnie opisane
+
+Działanie strony w połączeniu Django, Redis i Celery pokazane na zdjeciu 
 
 
 1. Zalogowany użytkownik na basic i session authentication
