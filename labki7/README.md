@@ -21,6 +21,13 @@ Działanie strony
 Dodajemy zdjecie, które jest zipowane i wrzucane do wybranego przez nas folderu
 
 
+2. Celery worker
+
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki7/media/images/2.PNG)
+
+Sprawdzenie połączenia z redisem
+
+
 
 
 
