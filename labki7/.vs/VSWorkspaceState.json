@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\apka",
+    "\\apka\\templates",
+    "\\apka\\templates\\apka",
+    "\\mysite",
     "\\Redis"
   ],
-  "SelectedNode": "\\Redis\\task1.py",
+  "SelectedNode": "\\mysite\\settings.py",
   "PreviewInSolutionExplorer": false
 }
