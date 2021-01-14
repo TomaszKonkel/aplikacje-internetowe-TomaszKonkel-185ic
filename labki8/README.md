@@ -3,8 +3,11 @@
 
 
 #Laboratorium numer 8
+
 Działanie WebSocketów w aplikacji z logowaniem się użytkowników i wyświetlania ich stanu połączenia 
+
 OPIS PLIKÓW 
+
 -------------------------------------ZAD1---------------------------------------------------
 
 SETTINGS.py 
@@ -76,6 +79,8 @@ worker2.html
 worker.html
 
 	- Skrypt realizuje szukanie liczb pierwszych, zwrócenia ich ilości oraz czasu w jakim zostało to wykonane
+
+PONIŻEJ ZDJECIA DZIAŁANIA STRONY
 
 1. Widok użytkowników z poziomu zalogowania użytkownika Tomasz 
 
