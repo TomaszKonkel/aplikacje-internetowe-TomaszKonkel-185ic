@@ -14,8 +14,7 @@ SETTINGS.py
 CONSUMER.py
 
 	- Tutaj są napisane funkcje zapewniające podstawowe sprawdzanie połączenia między klientem a serwerem(Połączenie i rozłączenie), oraz wyświetlania tego na stronie
-  
-przy każdym zalogowaniu się, użytkownika będzie otrzymywał możliwość odbierania wiadomości on serwera(przyłączenie do grupy 'users'), przy wylogowaniuta możliwość będzie mu zabierana(usuwanie z grupy 'users')
+	przy każdym zalogowaniu się, użytkownika będzie otrzymywał możliwość odbierania wiadomości on serwera(przyłączenie do grupy 'users'), przy wylogowaniuta możliwość będzie mu zabierana(usuwanie z grupy 'users')
 
 ROUTING.py
 
