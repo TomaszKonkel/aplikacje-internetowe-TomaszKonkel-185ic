@@ -6,6 +6,7 @@
 Działanie WebSocketów w aplikacji z logowaniem się użytkowników i wyświetlania ich stanu połączenia 
 OPIS PLIKÓW 
 -------------------------------------ZAD1---------------------------------------------------
+
 SETTINGS.py 
 
 	- Dodane Channel_Layers w którym jest ustawiona domyślna współpraca BACKENDU redisa, hosta redisa i routingu
