@@ -33,11 +33,11 @@ TEMPLATES
   
 	- sign_up.html: rozszerzenie wcześniejszego pliku _base.html, wyświetlajacy formularz rejestracji
   
-VIEWS.py
+example/VIEWS.py
 
 	- W tym pliku mamy klasy wyświetlające nasze widoki do Templatsów, uwierzytelnianie w przypadku logowania i wszelkie gotowe w django formularze   
   
-URLS.py
+example/URLS.py
 
 	- W tym pliku mamy odnosniki do adresów poszczególnych podstron(W projekcie do podstrony admin i pustej strony, a w aplikacji do każdej poszczególnej podstrony)
   
@@ -57,7 +57,7 @@ SIGNALS.py
 
 	- W tym pliku mamy funkcje opowiedzialna za rozgłaszanie powiadomienia o tym czy uzytkownik jest zalogowany czy nie, wykorzystuje wbudowane rozszerzenia receiver(user_logged_in, user_logged_out) 
   
-APP.py
+APPS.py
 
 	- W tym pliku zapewniamy, że sygnał działa w naszej aplikacji, tak samo w pliku __init__.py 
   
