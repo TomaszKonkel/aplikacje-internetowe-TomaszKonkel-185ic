@@ -1,15 +1,22 @@
-# Aplikacje- interneetowe-www-TomaszKonkel-185IC
+# Projektowanie-serwisów-www-TomaszKonkel-185IC
 # Autor: Tomasz Konkel grupa: 185IC_B1
 
 
-#Laboratorium numer 7
+#Laboratorium numer 8
 
-Połączenie Django, Redisa i Celery
+Aplikacja z repozytorium: https://github.com/arnab-datta/counter-app
 
-Zadania wykonane z artykułu znajdują się w pliku Redis
-Dokładnie opisane
+W folderze public zawarty plik index.html z wyglądem strony(div z id root dzięki któremu wyświetlają się reactowe componenty)
 
-Działanie strony w połączeniu Django, Redis i Celery pokazane na zdjeciu 
+W folderze src w pliku app.js zawarta klasa dzięki której umozliwione jest zwiększanie, zmniejszanie i inne akcje na stronie 
+
+index.js odpowiada za wyświetlenie class z app.js w pliku index.html 
+
+W folderze src/components 
+
+	- plik counter.jsx odpowiada za górny pasek navbar i wyświetlanie zliczonych produktów w "koszyku"
+	- plik counters.jsx odpowiada za wygląd zliczania ilości danego przedmiotu, przycisk usuwania, oraz przycisk restartu 
+	- plik navbar.jsx odpowiada za wygląd górnego paska navbar 
 
 
 1. Wygląd działającej strony
@@ -20,12 +27,6 @@ Działanie strony
 
 Dodajemy zdjecie, które jest zipowane i wrzucane do wybranego przez nas folderu
 
-
-2. Celery worker
-
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki7/media/images/2.PNG)
-
-Sprawdzenie połączenia z redisem
 
 
 
