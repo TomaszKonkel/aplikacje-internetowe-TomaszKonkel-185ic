@@ -25,7 +25,7 @@ W folderze src/components
 
 2. Wygląd strony 
 
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/lab8_counter-app-master/1.PNG)
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/lab8_counter-app-master/2.PNG)
 
 
 
