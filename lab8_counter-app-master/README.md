@@ -21,13 +21,11 @@ W folderze src/components
 
 1. Wygląd działającej strony
 
-![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/labki7/media/images/1.PNG)	
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/lab8_counter-app-master/diff.PNG)	
 
-Działanie strony
+2. Wygląd strony 
 
-Dodajemy zdjecie, które jest zipowane i wrzucane do wybranego przez nas folderu
-
-
+![alt text](https://github.com/TomaszKonkel/aplikacje-internetowe-TomaszKonkel-185ic/blob/master/lab8_counter-app-master/1.PNG)
 
 
 
