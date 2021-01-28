@@ -4,28 +4,17 @@ import React, { Component } from "react";
     const todoItems = [
       {
         id: 1,
-        title: "Go to Market",
-        description: "Buy ingredients to prepare dinner",
-        completed: true
+        title: "zadanie1",
+        description: "To jest zadanie1",
+        completed: false
       },
       {
         id: 2,
-        title: "Study",
-        description: "Read Algebra and History textbook for upcoming test",
+        title: "zadanie2",
+        description: "To jest zadanie2",
         completed: false
       },
-      {
-        id: 3,
-        title: "Sally's books",
-        description: "Go to library to rent sally's books",
-        completed: true
-      },
-      {
-        id: 4,
-        title: "Article",
-        description: "Write article on how to use django with react",
-        completed: false
-      }
+      
     ];
     class App extends Component {
       constructor(props) {
